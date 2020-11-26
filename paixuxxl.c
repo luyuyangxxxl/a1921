@@ -81,3 +81,4 @@ void QuickSort(int a[],int n){
 	printf("\n");
 }
 # a1921 paixuxxl.h testpaixu.c Makefile
+# a1921 paixuxxl.h testpaixu.c Make
