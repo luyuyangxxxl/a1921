@@ -1,0 +1,3 @@
+this is sample
+testCal:linkstack1.c testlinkstack.c
+		gcc lianzhan.c testlianzhan.c -o testlianzhani
