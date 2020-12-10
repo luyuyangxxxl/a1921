@@ -1,0 +1,3 @@
+#this is sample
+testCal:doublequeue1.c testdoublequeue.c
+		gcc doublequeue1.c testdoublequeue.c -o testdoublequeuei
